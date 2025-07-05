@@ -10,7 +10,6 @@ Sou um estudante apaixonado por tecnologia, desenvolvimento e todas as áreas a 
 
 - 🎓 Estudo **Licenciatura em Computação**.
 - 🛠️ Estou explorando **Java, orientação a objetos, bancos de dados, redes, sistemas operacionais, Git e muito mais**.
-- 🌐 Gosto de pensar o sistema inteiro: do back-end à infraestrutura.
 
 ---
 
@@ -49,6 +48,3 @@ Sou um estudante apaixonado por tecnologia, desenvolvimento e todas as áreas a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wathysonsamuel)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wathysonsamuel61@gmail.com)
 
----
-
-⭐️ *Se chegou até aqui, explore meus projetos, veja o código, leia os commits. Está tudo ali: os testes, os erros, os acertos.*
