@@ -23,8 +23,8 @@ Sou um desenvolvedor apaixonado por tecnologia, programação e sistemas. Atualm
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wathyson&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wathyson&layout=compact&langs_count=8&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wathysonsamuel&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wathysonsamuel&layout=compact&langs_count=8&theme=github_dark" />
 
 </div>
 
