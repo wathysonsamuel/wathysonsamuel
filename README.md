@@ -25,17 +25,6 @@ Sou um estudante apaixonado por tecnologia, desenvolvimento e todas as áreas a 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wathysonsamuel&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wathysonsamuel&layout=compact&langs_count=8&theme=github_dark&cache_seconds=1" />
-
-</div>
-
----
-
 ## 📚 Interesses a curto e longo prazo
 
 - 🔧 Aprimorar minhas habilidades em **POO, Spring Boot, SQL, Git e sistemas Linux**
