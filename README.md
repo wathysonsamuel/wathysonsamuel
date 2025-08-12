@@ -6,30 +6,28 @@ Sou um estudante apaixonado por tecnologia, desenvolvimento e todas as áreas a 
 
 ---
 
-## 🧠 O que me move
+## Atualmente
 
 - 🎓 Estudo **Licenciatura em Computação**.
-- 🛠️ Estou explorando **Java, orientação a objetos, bancos de dados, redes, sistemas operacionais, Git e muito mais**.
+- 🛠️ Estou explorando **Java, Poo, bancos de dados, redes, Git, docker e outros**.
 
 ---
 
-## 🧰 Tecnologias que já uso ou exploro
+## Tecnologias que já uso ou exploro
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Open Source](https://img.shields.io/badge/Open%20Source-%23FFFFFF?style=for-the-badge&logo=openaccess&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📚 Interesses a curto e longo prazo
 
-- 🔧 Aprimorar minhas habilidades em **POO, Spring Boot, SQL, Git e sistemas Linux**
+- 🔧 Aprimorar minhas habilidades em **POO, Spring Boot, SQL, Git e um foco na área "Devops"**
 - 📐 Aprofundar em **arquitetura de software, redes, algoritmos e estruturas de dados**
-- 🔍 Explorar áreas como **compiladores, segurança, testes e automação**
 
 ---
 
